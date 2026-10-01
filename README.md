@@ -3,6 +3,7 @@ The rig is connected to one of the blue-USB connectors. A py-script running in t
 rig and sets the Key-return voltages, changes bands on the GPA 100.
 
 
+
 **How to Run It on a Fresh Setup**
 
 Once you flash your fresh Raspberry Pi OS Lite (64-bit) image and connect via SSH:
@@ -42,3 +43,14 @@ Use code with caution.
 **bash**
 
 `sudo reboot`
+
+**Output Filter for GPIO (DAC)**
+                           R1 (1.6 kΩ)
+Pin 12 (GPIO 18)  ●--------[  Resistor  ]--------●-------> To Radio Band Input
+                                                 |
+                                               =====  C1 (1 µF)
+
+                                               |   |  Capacitor
+                                                 |
+Pin 6 (GND)       ●------------------------------●-------> To Radio Ground
+
