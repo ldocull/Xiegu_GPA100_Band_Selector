@@ -46,5 +46,5 @@ Use code with caution.
 
 **Output Filter for GPIO (DAC)**
 
-![[Filter](https://i.imgur.com/rvWxt3w.png)
+![[Filter](https://github.com/ldocull/Xiegu_GPA100_Band_Selector/blob/main/Schematic.PNG?raw=true)
 
