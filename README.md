@@ -45,5 +45,5 @@ Use code with caution.
 `sudo reboot`
 
 **Output Filter for GPIO (DAC)**
-<img src="[https://i.imgur.com/f4Mt6hA.png](https://imgur.com/a/zeYURLN)" width="400" alt="Alt Text">
+[<img src="[https://i.imgur.com/f4Mt6hA.png](https://imgur.com/a/zeYURLN)" width="400" alt="Alt Text">](https://i.imgur.com/rvWxt3w.png)
 
