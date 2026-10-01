@@ -45,12 +45,5 @@ Use code with caution.
 `sudo reboot`
 
 **Output Filter for GPIO (DAC)**
-                           R1 (1.6 kΩ)
-Pin 12 (GPIO 18)  ●--------[  Resistor  ]--------●-------> To Radio Band Input
-                                                 |
-                                               =====  C1 (1 µF)
 
-                                               |   |  Capacitor
-                                                 |
-Pin 6 (GND)       ●------------------------------●-------> To Radio Ground
-
+                           ![Filter Image](https://imgur.com/a/lMnIvhO)
