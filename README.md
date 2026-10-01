@@ -45,5 +45,4 @@ Use code with caution.
 `sudo reboot`
 
 **Output Filter for GPIO (DAC)**
-
-                           ![Filter Image](https://imgur.com/a/lMnIvhO)
+![Filter Image](https://imgur.com/a/lMnIvhO)
